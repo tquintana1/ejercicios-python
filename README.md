@@ -20,10 +20,29 @@ cubriendo distintos casos de uso desde lo más simple hasta lógica condicional.
 2. Abrí una terminal y navegá hasta la carpeta
 3. Ejecutá el siguiente comando:
 python bucle_for_basico1_tarea.py
+
+# 🐍 Funciones Intermedias en Python - Diccionarios y Listas
+
+Ejercicios de práctica para aprender a manipular e iterar
+diccionarios y listas en Python mediante el uso de funciones.
+
+## 📋 Ejercicios
+
+| N° | Nombre | Descripción |
+|----|--------|-------------|
+| 1 | Actualizar valores | Modifica valores dentro de listas, listas de diccionarios y diccionarios de listas |
+| 2 | iterarDiccionario | Recorre una lista de diccionarios e imprime cada llave con su valor |
+| 3 | iterarDiccionario2 | Imprime el valor de una llave específica en cada diccionario de una lista |
+| 4 | imprimirInformacion | Imprime la cantidad de elementos y los valores de cada clave de un diccionario |
+
+## 🚀 Cómo ejecutarlo
+
+1. Descargá o cloná el repositorio
+2. Abrí una terminal y navegá hasta la carpeta
+3. Ejecutá el siguiente comando: python funciones_intermedias_1.py
+
 ## 🛠️ Requisitos
 
 - Python 3.14
 
 ## 👤 Thiago De La Quintana
-
-AMD
